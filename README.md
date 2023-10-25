@@ -16,3 +16,7 @@
 * Drift Hunters
 
 ***PLEASE DO SUGGEST NEW GAMES, GIVE NEW LINKS, AND REPORT BUGS IN THE ISSUES TAB.***
+
+### Blocked:
+* Call of Ops - Servers 1-3 are blocked by Smoothwall
+* GSA - Blocked by Smoothwall 
